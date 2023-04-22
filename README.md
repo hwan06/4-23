@@ -42,3 +42,7 @@
 ## 5️⃣  개발자의 상상과 현실의 차이
 #### 상상: 머리속에 온갖 코드가 내장되어 있는 사람
 #### 현실: 구글 -> 타닥타닥 -> ctrl + c -> ctrl + v
+----
+##### 자료 출처    
+https://catsbi.oopy.io/5d96b825-84ab-4419-9b03-720e7f591a29       
+https://faithful-magnolia-a8a.notion.site/3a2113232a33468ca8e9ae86390003b8
